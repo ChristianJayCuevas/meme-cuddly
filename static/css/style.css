@@ -553,13 +553,7 @@ nav ul li a:hover::after{
     
 }
 
-.hobbies .left-side{
-    height: 80%;
-    width: 45%;
-    margin: 0 auto;
-    padding-top: 15rem;
-    padding-left: 8rem;
-}
+
 
 .hobbies p{
     font-size: 18px;
@@ -1058,24 +1052,6 @@ body::-webkit-scrollbar-thumb{
         
     }
     
-    .hobbies .left-side{
-        height: auto;
-        width: 80%;
-        align-items: center;
-        justify-content:left; 
-        margin-left: 2rem;
-        margin-right: 2rem;
-        padding-top: 1rem;
-        padding-left: 2rem;
-        padding-right: 2rem;
-        padding-bottom: 4rem;
-
-        -webkit-box-ordinal-group: 2;
-    -moz-box-ordinal-group: 2;
-    -ms-flex-order: 2;
-    -webkit-order: 2;
-    order: 2;
-    }
     
     .hobbies p{
         font-size: 13px;
