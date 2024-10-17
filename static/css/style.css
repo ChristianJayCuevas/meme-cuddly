@@ -812,8 +812,6 @@ body::-webkit-scrollbar-thumb{
 /* Unique CSS for the About Us Section */
 .about-us {
     display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 50px 0;
 }
 
@@ -832,8 +830,8 @@ body::-webkit-scrollbar-thumb{
 }
 
 .about-image img {
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     border: 3px solid #ddd;
 }
@@ -847,6 +845,7 @@ body::-webkit-scrollbar-thumb{
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 10px;
+    color: white;
 }
 
 .description {
