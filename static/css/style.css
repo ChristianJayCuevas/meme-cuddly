@@ -1063,6 +1063,7 @@ body::-webkit-scrollbar-thumb{
         height: auto;
         width: 80%;
         align-items: center;
+        justify-content:left; 
         margin-left: 2rem;
         margin-right: 2rem;
         padding-top: 1rem;
